@@ -185,14 +185,14 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-weight: 400;
-  letter-spacing: 3px;
-  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: none;
 }
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #413e66;
+  color: #862d78;
   text-decoration: none;
 }
 
